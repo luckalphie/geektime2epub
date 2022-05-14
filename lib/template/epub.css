@@ -1,0 +1,31 @@
+body{
+    font-family: -apple-system,PingFang SC,Helvetica Neue,STHeiti,Microsoft Yahei,Tahoma,sans-serif;
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 50px;
+    color: #333;
+}
+a {
+    text-decoration: none;
+    color: #4397f8;
+}
+a:hover {
+    text-decoration: underline;
+}
+.content img {
+    max-width: 80%;
+}
+.img_container {
+    text-align: center;
+}
+.content pre {
+    padding: 15px;
+    color: #666;
+    border: 1px solid #e6e8eb;
+    border-radius: 3px;
+    background: #f7f9fa;
+    margin-bottom: 30px;
+    word-wrap: break-word;
+    word-break: break-all;
+    white-space:pre-wrap;
+}
